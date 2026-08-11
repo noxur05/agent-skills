@@ -8,3 +8,5 @@ id_rsa*
 *.swp
 analysis/
 HANDOFF.md
+.claude/
+CLAUDE.md
